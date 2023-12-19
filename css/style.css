@@ -46,7 +46,7 @@ align-items: center;
    font-size: 32px;
 }
 /* section */
-section{
+.flex_div{
     display: flex;
     padding: 115px 98px;
 justify-content: center;
